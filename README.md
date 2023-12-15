@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **saurabhkr3122001@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/saurabhfantastic1/html-Resume/blob/main/index.html](https://github.com/saurabhfantastic1/html-Resume/blob/main/index.html)
+- 📄 Know about my experiences [https://saurabhfantastic1.github.io/html-Resume/)
 
 - ⚡ Fun fact **I think I am Perfect**
 
