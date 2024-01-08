@@ -1,4 +1,4 @@
-![logo](https://github.com/saurabhfantastic1/banner/blob/main/IMG_20240103_161922_243.png)
+![logo](https://github.com/saurabhfantastic1/saurabhfantastic1/blob/main/BANNEROP.png)
 <!---
 saurabhfantastic1/saurabhfantastic1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
